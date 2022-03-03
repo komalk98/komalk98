@@ -42,24 +42,11 @@
 ✔ I’m looking for a internship in **Data Science field or Data Analyst**<br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+### My Skills: 🛠
+
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/pandas%20-%230D597F.svg?&style=for-the-badge&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/numpy%20-%230D597F.svg?&style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/seaborn%20-%230D597F.svg?&style=for-the-badge&logo=seaborn&logoColor=white"> <img src="https://img.shields.io/badge/sklearn%20-%230D597F.svg?&style=for-the-badge&logo=sklearn&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib%20-%230D597F.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"> <img src="https://img.shields.io/badge/EDA%20-%230D597F.svg?&style=for-the-badge&logo=EDA&logoColor=white"> <img src="https://img.shields.io/badge/tableau%20-%230D597F.svg?&style=for-the-badge&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/statistics%20-%230D597F.svg?&style=for-the-badge&logo=statistics&logoColor=white">  <img src="https://img.shields.io/badge/mysql%20-%230D597F.svg?&style=for-the-badge&logo=mysql&logoColor=white">   <img src="https://img.shields.io/badge/excel%20-%23008CC1.svg?&style=for-the-badge&logo=excel&logoColor=white">   <img src="https://img.shields.io/badge/mongodb%20-%230D597Fsvg?&style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%230D597F.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
+  <p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalk98&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=komalk98&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
